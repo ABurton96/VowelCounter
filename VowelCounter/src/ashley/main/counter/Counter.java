@@ -108,7 +108,7 @@ public class Counter {
 		//Creates consonant counter text field
 		textFieldConst = new JTextField();
 		textFieldConst.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		textFieldConst.setText("Consonant: 0");
+		textFieldConst.setText("Consonants: 0");
 		textFieldConst.setHorizontalAlignment(SwingConstants.CENTER);
 		textFieldConst.setEditable(false);
 		textFieldConst.setColumns(10);
